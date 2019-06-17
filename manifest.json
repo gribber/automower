@@ -1,0 +1,8 @@
+{
+	"domain": "automower",
+	"name": "automower",
+	"documentation": "https://github.com/yeah/home-assistant/tree/automower/homeassistant/components",
+	"dependencies": [],
+	"codeowners": [],
+	"requirements": ["pyhusmow==0.2.0"]
+}
